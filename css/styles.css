@@ -1,0 +1,31 @@
+img
+{
+    height: 200px;
+
+}
+
+body
+{
+    background-color: #e9e6df;
+   
+
+}
+ 
+hr
+{
+    border-style: dotted none none;
+    height: 3px;
+    width: 3%;
+    border-width: 7px;
+    border-color: rgb(149, 150, 150);
+    background-color: #e9e6df;
+
+}
+h1{
+    color:#19A7CE;
+}
+
+h3
+{
+    color: #19A7CE;
+}
